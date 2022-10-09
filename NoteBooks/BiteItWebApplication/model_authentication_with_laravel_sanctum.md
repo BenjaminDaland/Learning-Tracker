@@ -7,13 +7,16 @@
 - Use the **Command Palette** (**Shift** + **Cmd** + **P**) to run the **Markdown: Open Preview to the Side**
 
 \
-First install Laravel Passport: [Install with Guide](https://laravel.com/docs/9.x/sanctum#overriding-default-models), and follow the examples.
+First install Laravel Sanctum: [Install with Guide](https://laravel.com/docs/9.x/sanctum#overriding-default-models), and follow the examples.
 
 \
 Follow [article](https://www.itsolutionstuff.com/post/laravel-9-rest-api-authentication-using-sanctum-tutorialexample.html) to use Laravel Sanctum for REST Api Authentication.
 
 \
 Read [article](https://medium.com/geekculture/laravel-sanctum-with-custom-expiry-time-1b69984363e0) to add Laravel Sanctum accessToken with custom expiration date.
+
+\
+Read [Password Reset Functionality](https://www.toptal.com/laravel/passport-tutorial-auth-user-access)
 
 <br></br>
 
